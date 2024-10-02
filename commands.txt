@@ -1,3 +1,11 @@
 git config --global user.name "username" [it is used to give username for git]
 
 git config --global user.email "email" [it is used to give the email for git]
+
+git init  [it is used to initialize an empty git repository]
+
+git status [it is used to list the untracked files]
+
+git add -A [used to add the untracked files to staging area]
+
+git commit -m "commit message" [used to move staging film to local repository]
