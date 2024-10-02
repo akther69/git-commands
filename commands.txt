@@ -9,3 +9,18 @@ git status [it is used to list the untracked files]
 git add -A [used to add the untracked files to staging area]
 
 git commit -m "commit message" [used to move staging film to local repository]
+
+git push [Local Repository-Remote Repository]
+
+git pull [RR=>Changes=>LWS]
+
+git clone [RR=>Exact Copy=>LWS]
+
+git remote add remote_name remote_path [adding remote]
+
+git branch [list all branches]
+
+git remote -v [list all remote]
+
+git push remote_name branch [to push]
+
